@@ -2,7 +2,7 @@ package miNuevoPaquete;
 
 import java.util.Scanner;
 
-public class EjercicioSeis {
+public class Ejerc7TP0 {
 
 	   private static int pedirNumero(Scanner scan,String mensaje){
 	        System.out.println(mensaje);
@@ -15,15 +15,9 @@ public class EjercicioSeis {
 	        int a= pedirNumero(scan, "Escriba numero a: ");
 	        int b= pedirNumero(scan, "Escriba numero b: ");
 
-	        int resultado = a+b;
-	        System.out.println("La suma es: " + resultado);
+	        float resultado = (a+b)/2.0f;
+	        System.out.println("El promedio es: " + resultado);
 
 	        scan.close(); // Cierra el Scanner al final del programa
 	    }
 	}
-/*	double c = 16;
-	double d = 4;
-	double e = c/(2*d);
-	System.out.println(e);
-}
-*/
