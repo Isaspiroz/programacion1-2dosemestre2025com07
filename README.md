@@ -1,0 +1,1 @@
+Estos son ejercicios de la practica cero de la materia programacion 1 de la tecnicatira superiro en informatica de la Universidad Nacional de General Sarmiento, realizados por aprendiz de programadora Isabel 
